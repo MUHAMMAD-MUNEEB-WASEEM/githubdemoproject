@@ -1,2 +1,3 @@
 pushing to github
 pulling to local repo
+pushing to github using smartgit
